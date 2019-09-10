@@ -13,4 +13,7 @@ class D {
 		void MD2() {
 			cout << "MD2" << endl;
 		}
+		void MD3() {
+			cout << "MD3" << endl;
+		}
 };
